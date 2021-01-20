@@ -8,4 +8,4 @@ The goal of this project is to propose a method to expanding target audience by 
 3. Extract the desired data, such as company name, website, and industry, from each URL
 
 ## Link to the Project
-1. 
+1. https://nbviewer.jupyter.org/github/KUANCHENGFU/Target-Audience-Expansion/blob/main/Target_audience_expansion.ipynb
